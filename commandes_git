@@ -1,0 +1,10 @@
+Commandes pour dumper le git :
+* si jamais utilisé git sur une machine, faire : git init
+
+* se placer dans le dossier .git (dossier caché, accessible seulement en ligne de commande sur linux)
+
+* commande à lancer : git clone [adresse/répertoire]
+
+* se placer dans le dossier [nom_projet]
+
+* commande à lancer : git log > fichier_pour_redirection
