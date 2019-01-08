@@ -8,3 +8,6 @@ Commandes pour dumper le git :
 * se placer dans le dossier [nom_projet]
 
 * commande à lancer : git log > fichier_pour_redirection
+
+* pour actualiser un repository (récupérer les derniers fichiers mis en ligne) : git pull origin [nom_branche]
+[nom_branche] par défaut : master
